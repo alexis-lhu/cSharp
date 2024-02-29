@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Age\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141AABAA-11AA-4DBA-8C39-50596DACC4CE}|Age\\Age.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\age\\age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141AABAA-11AA-4DBA-8C39-50596DACC4CE}|Age\\Age.csproj|solutionrelative:age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDCE1D8-B935-40A6-BFDF-419D9D908AD4}|AgeTests\\AgeTests.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\age\\agetests\\ageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDCE1D8-B935-40A6-BFDF-419D9D908AD4}|AgeTests\\AgeTests.csproj|solutionrelative:agetests\\ageservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Age\\AgeTests\\AgeServiceTests.cs",
+              "RelativeDocumentMoniker": "AgeTests\\AgeServiceTests.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Age\\AgeTests\\AgeServiceTests.cs*",
+              "RelativeToolTip": "AgeTests\\AgeServiceTests.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:08:56.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Age\\Age\\Program.cs",
+              "RelativeDocumentMoniker": "Age\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Age\\Age\\Program.cs",
+              "RelativeToolTip": "Age\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:41:50.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

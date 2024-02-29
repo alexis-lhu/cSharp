@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\societe\\societe\\modele\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|solutionrelative:societe\\modele\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\societe\\societe\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|solutionrelative:societe\\modele\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\societe\\societe\\modele\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|solutionrelative:societe\\modele\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\societe\\societe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93F33314-258B-4AE3-B61B-63842F33F347}|Societe\\Societe.csproj|solutionrelative:societe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Chef.cs",
+              "RelativeDocumentMoniker": "Societe\\Modele\\Chef.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Chef.cs",
+              "RelativeToolTip": "Societe\\Modele\\Chef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:23:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Personne.cs",
+              "RelativeDocumentMoniker": "Societe\\Modele\\Personne.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Personne.cs",
+              "RelativeToolTip": "Societe\\Modele\\Personne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:47:27.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Employe.cs",
+              "RelativeDocumentMoniker": "Societe\\Modele\\Employe.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Modele\\Employe.cs",
+              "RelativeToolTip": "Societe\\Modele\\Employe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:36:22.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Program.cs",
+              "RelativeDocumentMoniker": "Societe\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Societe\\Societe\\Program.cs",
+              "RelativeToolTip": "Societe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T10:18:59.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

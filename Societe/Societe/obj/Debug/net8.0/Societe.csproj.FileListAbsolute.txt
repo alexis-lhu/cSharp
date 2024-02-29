@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.AssemblyInfo.cs
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\bin\Debug\net8.0\Societe.exe
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\bin\Debug\net8.0\Societe.deps.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\bin\Debug\net8.0\Societe.runtimeconfig.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\bin\Debug\net8.0\Societe.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\bin\Debug\net8.0\Societe.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\refint\Societe.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.genruntimeconfig.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\ref\Societe.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Classe_age\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25A4FFB9-4BAC-45C9-8F75-886E437707C1}|Classe_age\\Classe_age.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\classe_age\\classe_age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A4FFB9-4BAC-45C9-8F75-886E437707C1}|Classe_age\\Classe_age.csproj|solutionrelative:classe_age\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A4FFB9-4BAC-45C9-8F75-886E437707C1}|Classe_age\\Classe_age.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\classe_age\\classe_age\\etrevivant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A4FFB9-4BAC-45C9-8F75-886E437707C1}|Classe_age\\Classe_age.csproj|solutionrelative:classe_age\\etrevivant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtreVivant.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Classe_age\\Classe_age\\EtreVivant.cs",
+              "RelativeDocumentMoniker": "Classe_age\\EtreVivant.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Classe_age\\Classe_age\\EtreVivant.cs",
+              "RelativeToolTip": "Classe_age\\EtreVivant.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:08:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Classe_age\\Classe_age\\Program.cs",
+              "RelativeDocumentMoniker": "Classe_age\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\Classe_age\\Classe_age\\Program.cs",
+              "RelativeToolTip": "Classe_age\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:53:02.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

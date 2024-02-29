@@ -1,0 +1,14 @@
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\bin\Debug\net8.0\Age.exe
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\bin\Debug\net8.0\Age.deps.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\bin\Debug\net8.0\Age.runtimeconfig.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\bin\Debug\net8.0\Age.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\bin\Debug\net8.0\Age.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.AssemblyInfo.cs
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\refint\Age.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\Age.genruntimeconfig.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Age\Age\obj\Debug\net8.0\ref\Age.dll
