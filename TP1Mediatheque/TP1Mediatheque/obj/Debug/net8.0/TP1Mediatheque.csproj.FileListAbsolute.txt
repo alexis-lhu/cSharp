@@ -1,0 +1,15 @@
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.AssemblyInfo.cs
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.sourcelink.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\bin\Debug\net8.0\TP1Mediatheque.exe
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\bin\Debug\net8.0\TP1Mediatheque.deps.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\bin\Debug\net8.0\TP1Mediatheque.runtimeconfig.json
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\bin\Debug\net8.0\TP1Mediatheque.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\bin\Debug\net8.0\TP1Mediatheque.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\refint\TP1Mediatheque.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.pdb
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\TP1Mediatheque.genruntimeconfig.cache
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\TP1Mediatheque\TP1Mediatheque\obj\Debug\net8.0\ref\TP1Mediatheque.dll

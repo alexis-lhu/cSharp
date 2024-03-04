@@ -12,3 +12,4 @@ C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\refint
 C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.pdb
 C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.genruntimeconfig.cache
 C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\ref\Societe.dll
+C:\Users\alexc\Desktop\Cours\SN2\C shrap\Societe\Societe\obj\Debug\net8.0\Societe.sourcelink.json

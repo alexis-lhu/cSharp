@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\tp1mediatheque\\tp1mediatheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|solutionrelative:tp1mediatheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\tp1mediatheque\\tp1mediatheque\\classes\\objetdepret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|solutionrelative:tp1mediatheque\\classes\\objetdepret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|c:\\users\\alexc\\desktop\\cours\\sn2\\c shrap\\tp1mediatheque\\tp1mediatheque\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B01F2D-77C6-4F8F-A4C3-5435D9167F1A}|TP1Mediatheque\\TP1Mediatheque.csproj|solutionrelative:tp1mediatheque\\classes\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\classes\\Livre.cs",
+              "RelativeDocumentMoniker": "TP1Mediatheque\\classes\\Livre.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\classes\\Livre.cs",
+              "RelativeToolTip": "TP1Mediatheque\\classes\\Livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:03:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjetDePret.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\classes\\ObjetDePret.cs",
+              "RelativeDocumentMoniker": "TP1Mediatheque\\classes\\ObjetDePret.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\classes\\ObjetDePret.cs",
+              "RelativeToolTip": "TP1Mediatheque\\classes\\ObjetDePret.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:46:41.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\Program.cs",
+              "RelativeDocumentMoniker": "TP1Mediatheque\\Program.cs",
+              "ToolTip": "C:\\Users\\alexc\\Desktop\\Cours\\SN2\\C shrap\\TP1Mediatheque\\TP1Mediatheque\\Program.cs",
+              "RelativeToolTip": "TP1Mediatheque\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:35:04.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
